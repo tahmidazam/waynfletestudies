@@ -4,4 +4,4 @@ Tahmid Azam
 
 May 2022
 
-Included in this repository is the research paper PDF, source code, and images from figures.
+Included in this repository is the research paper PDF `Project document.pdf`, source code, datasets, and images from figures.
